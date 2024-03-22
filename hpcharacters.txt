@@ -1,0 +1,4 @@
+Potter is a student.
+Dumbledore is a professor.
+Malfoy is a student.
+Amazing wizarding world.
